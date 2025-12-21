@@ -1,0 +1,8 @@
+{
+  "name": "extension-ads-config",
+  "version": "1.0.0",
+  "description": "Ads configuration for browser extensions",
+  "main": "ads.json",
+  "author": "Vladislav Romanovsky (https://github.com/FrostBy)",
+  "license": "SEE LICENSE IN LICENSE"
+}

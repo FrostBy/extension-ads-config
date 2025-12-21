@@ -1,0 +1,58 @@
+{
+  "slots": {
+    "popup-banner": {
+      "fallback": false,
+      "ads": [
+        {
+          "advertiser": "lingualeo",
+          "target": {
+            "countries": { "included": ["AM", "AZ", "BY", "CA", "CN", "DE", "DK", "ES", "FI", "FR", "GB", "GR", "IE", "IL", "IN", "IT", "KG", "KZ", "NO", "PL", "PT", "RS", "RU", "TJ", "TR", "US", "UZ"] },
+            "languages": ["ru", "uk", "be"]
+          },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://xcdus.com/g/o5wyavsjez2b10ea91fbc814d4b7c0/?i=4&erid=2bL9aMPo2e49hMef4phyrJXm8K\"><img width=\"320\" height=\"50\" border=\"0\" src=\"https://aflink.ru/b/o5wyavsjez2b10ea91fbc814d4b7c0/\" alt=\"Lingualeo\"/></a>"
+        },
+        {
+          "advertiser": "turbovpn",
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://grfpr.com/g/a2r90hbv2v2b10ea91fbddf84d4c0b/?i=4\"><img width=\"320\" height=\"50\" border=\"0\" src=\"https://ad.admitad.com/b/a2r90hbv2v2b10ea91fbddf84d4c0b/\" alt=\"TurboVPN WW\"/></a>"
+        }
+      ]
+    },
+    "popup-skyscraper": {
+      "fallback": false,
+      "ads": [
+        {
+          "advertiser": "lingualeo",
+          "target": {
+            "countries": { "included": ["AM", "AZ", "BY", "CA", "CN", "DE", "DK", "ES", "FI", "FR", "GB", "GR", "IE", "IL", "IN", "IT", "KG", "KZ", "NO", "PL", "PT", "RS", "RU", "TJ", "TR", "US", "UZ"] },
+            "languages": ["ru", "uk", "be"]
+          },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://xcdus.com/g/p107ttm62d2b10ea91fbc814d4b7c05f17e372ab/?i=4&erid=2bL9aMPo2e49hMef4phUQTjR3K\"><img width=\"160\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/p107ttm62d2b10ea91fbc814d4b7c05f17e372ab/\" alt=\"Lingualeo\"/></a>"
+        },
+        {
+          "advertiser": "joom",
+          "target": { "countries": { "included": ["RU"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://aflink.ru/g/uz750ddqup2b10ea91fb79deb39b46/?i=4&erid=5jtCeReNwxHpfQTGQ37ZZSm\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/uz750ddqup2b10ea91fb79deb39b46/\" alt=\"Joom RU\"/></a>"
+        },
+        {
+          "advertiser": "steamgold",
+          "target": { "countries": { "included": ["RU", "BY"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://dorinebeaumont.com/g/jx4fnrjg8j2b10ea91fb6e4ff1910f/?i=4&erid=2bL9aMPo2e49hMef4pgVKKr8HH\"><img width=\"160\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/jx4fnrjg8j2b10ea91fb6e4ff1910f/\" alt=\"Steamgold [CPS] RU\"/></a>"
+        },
+        {
+          "advertiser": "rulez",
+          "target": { "countries": { "included": ["BY"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://xcdus.com/g/hdb7aq1hif2b10ea91fb8b141a6ee8/?i=4\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://ad.admitad.com/b/hdb7aq1hif2b10ea91fb8b141a6ee8/\" alt=\"Rulez BY\"/></a>"
+        },
+        {
+          "advertiser": "puzzlemovies",
+          "target": { "languages": ["ru"] },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://dhwnh.com/g/69o3gu82gw2b10ea91fb42f9f2178b/?i=4&erid=2bL9aMPo2e49hMef4piV5AB4S1\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/69o3gu82gw2b10ea91fb42f9f2178b/\" alt=\"Puzzle Movies\"/></a>"
+        },
+        {
+          "advertiser": "turbovpn",
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://grfpr.com/g/3gxnzgdc4s2b10ea91fbddf84d4c0b/?i=4\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://ad.admitad.com/b/3gxnzgdc4s2b10ea91fbddf84d4c0b/\" alt=\"TurboVPN WW\"/></a>"
+        }
+      ]
+    }
+  }
+}
