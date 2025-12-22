@@ -4,6 +4,11 @@
       "fallback": false,
       "ads": [
         {
+          "advertiser": "aliexpress-ww",
+          "target": { "countries": { "excluded": ["AM", "AZ", "BY", "GE", "KG", "KZ", "MD", "RU", "TJ", "TM", "UZ"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://rzekl.com/g/imwaz5ihfi2b10ea91fb16525dc3e81ae0c8f789/?i=4\"><img width=\"320\" height=\"50\" border=\"0\" src=\"https://ad.admitad.com/b/imwaz5ihfi2b10ea91fb16525dc3e81ae0c8f789/\" alt=\"AliExpress WW\"/></a>"
+        },
+        {
           "advertiser": "lingualeo",
           "target": {
             "countries": { "included": ["AM", "AZ", "BY", "CA", "CN", "DE", "DK", "ES", "FI", "FR", "GB", "GR", "IE", "IL", "IN", "IT", "KG", "KZ", "NO", "PL", "PT", "RS", "RU", "TJ", "TR", "US", "UZ"] },
@@ -20,6 +25,11 @@
     "popup-skyscraper": {
       "fallback": false,
       "ads": [
+        {
+          "advertiser": "aliexpress-ww",
+          "target": { "countries": { "excluded": ["AM", "AZ", "BY", "GE", "KG", "KZ", "MD", "RU", "TJ", "TM", "UZ"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://rzekl.com/g/wb3lof5msm2b10ea91fb16525dc3e81ae0c8f789/?i=4\"><img width=\"160\" height=\"600\" border=\"0\" src=\"https://ad.admitad.com/b/wb3lof5msm2b10ea91fb16525dc3e81ae0c8f789/\" alt=\"AliExpress WW\"/></a>"
+        },
         {
           "advertiser": "lingualeo",
           "target": {
@@ -51,6 +61,46 @@
         {
           "advertiser": "turbovpn",
           "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://grfpr.com/g/3gxnzgdc4s2b10ea91fbddf84d4c0b/?i=4\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://ad.admitad.com/b/3gxnzgdc4s2b10ea91fbddf84d4c0b/\" alt=\"TurboVPN WW\"/></a>"
+        },
+        {
+          "advertiser": "evolve-rp",
+          "target": { "countries": { "included": ["AM", "BY", "KZ", "RU"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://xmknb.com/g/nnh1mwitg02b10ea91fb61e800f2bd/?i=4&erid=2bL9aMPo2e49hMef4rqTzHSgji\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/nnh1mwitg02b10ea91fb61e800f2bd/\" alt=\"Evolve-RP [CPP] RU+CIS\"/></a>"
+        },
+        {
+          "advertiser": "evolve-rp",
+          "target": { "countries": { "included": ["AM", "BY", "KZ", "RU"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://xmknb.com/g/cz83nhx27q2b10ea91fb61e800f2bd/?i=4&erid=2bL9aMPo2e49hMef4rqTzHSgp9\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/cz83nhx27q2b10ea91fb61e800f2bd/\" alt=\"Evolve-RP [CPP] RU+CIS\"/></a>"
+        },
+        {
+          "advertiser": "mts-pay",
+          "target": { "countries": { "included": ["RU"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://bjpql.com/g/903dzozeki2b10ea91fbd6f5c27831/?i=4&erid=2bL9aMPo2e49hMef4rqxsH7vND\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/903dzozeki2b10ea91fbd6f5c27831/\" alt=\"МТС Оплата | Оплата зарубежных сервисов [CPS] RU\"/></a>"
+        },
+        {
+          "advertiser": "gabestore",
+          "target": { "countries": { "included": ["AM", "AZ", "BY", "KZ", "RU", "TJ", "UZ"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://codeaven.com/g/k9ts0zpzd22b10ea91fb215ab801b9/?i=4&erid=2bL9aMPo2e49hMef4pgzCbqZR4\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/k9ts0zpzd22b10ea91fb215ab801b9/\" alt=\"GabeStore [CPS] RU + CIS\"/></a>"
+        },
+        {
+          "advertiser": "gabestore",
+          "target": { "countries": { "included": ["AM", "AZ", "BY", "KZ", "RU", "TJ", "UZ"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://codeaven.com/g/lxgvsmobet2b10ea91fb215ab801b9/?i=4&erid=2bL9aMPo2e49hMef4pgzCbqZVY\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/lxgvsmobet2b10ea91fb215ab801b9/\" alt=\"GabeStore [CPS] RU + CIS\"/></a>"
+        },
+        {
+          "advertiser": "pizzahut",
+          "target": { "countries": { "included": ["RU"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://naiawork.com/g/z2ezd4g1pi2b10ea91fbba0ab394fc/?i=4&erid=2bL9aMPo2e49hMef4pgV6NB4Kw\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/z2ezd4g1pi2b10ea91fbba0ab394fc/\" alt=\"Pizzahut.ru\"/></a>"
+        },
+        {
+          "advertiser": "pizzahut",
+          "target": { "countries": { "included": ["RU"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://naiawork.com/g/pvb8xyefxt2b10ea91fbba0ab394fc/?i=4&erid=2bL9aMPo2e49hMef4phUk4qaKn\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/pvb8xyefxt2b10ea91fbba0ab394fc/\" alt=\"Pizzahut.ru\"/></a>"
+        },
+        {
+          "advertiser": "pizzahut",
+          "target": { "countries": { "included": ["RU"] } },
+          "html": "<a target=\"_blank\" rel=\"nofollow\" href=\"https://naiawork.com/g/ynw3lllsq82b10ea91fbba0ab394fc/?i=4&erid=2bL9aMPo2e49hMef4phUk4qaKm\"><img width=\"120\" height=\"600\" border=\"0\" src=\"https://aflink.ru/b/ynw3lllsq82b10ea91fbba0ab394fc/\" alt=\"Pizzahut.ru\"/></a>"
         }
       ]
     }
